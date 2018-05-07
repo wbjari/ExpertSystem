@@ -1,0 +1,15 @@
+G:\avans\ai\ExpertSysteem\ExpertSysteem\obj\Debug\ExpertSysteem.csprojResolveAssemblyReference.cache
+G:\avans\ai\ExpertSysteem\ExpertSysteem\obj\Debug\MainWindow.g.cs
+G:\avans\ai\ExpertSysteem\ExpertSysteem\obj\Debug\App.g.cs
+G:\avans\ai\ExpertSysteem\ExpertSysteem\obj\Debug\ExpertSysteem_MarkupCompile.cache
+G:\avans\ai\ExpertSysteem\ExpertSysteem\obj\Debug\ExpertSysteem_MarkupCompile.lref
+G:\avans\ai\ExpertSysteem\ExpertSysteem\bin\Debug\ExpertSysteem.exe.config
+G:\avans\ai\ExpertSysteem\ExpertSysteem\bin\Debug\ExpertSysteem.exe
+G:\avans\ai\ExpertSysteem\ExpertSysteem\bin\Debug\ExpertSysteem.pdb
+G:\avans\ai\ExpertSysteem\ExpertSysteem\obj\Debug\MainWindow.baml
+G:\avans\ai\ExpertSysteem\ExpertSysteem\obj\Debug\ExpertSysteem.g.resources
+G:\avans\ai\ExpertSysteem\ExpertSysteem\obj\Debug\ExpertSysteem.Properties.Resources.resources
+G:\avans\ai\ExpertSysteem\ExpertSysteem\obj\Debug\ExpertSysteem.csproj.GenerateResource.Cache
+G:\avans\ai\ExpertSysteem\ExpertSysteem\obj\Debug\ExpertSysteem.csproj.CoreCompileInputs.cache
+G:\avans\ai\ExpertSysteem\ExpertSysteem\obj\Debug\ExpertSysteem.exe
+G:\avans\ai\ExpertSysteem\ExpertSysteem\obj\Debug\ExpertSysteem.pdb

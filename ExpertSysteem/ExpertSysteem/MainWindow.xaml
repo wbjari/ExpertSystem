@@ -1,0 +1,39 @@
+﻿<Window x:Class="ExpertSysteem.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExpertSysteem"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="533.696" Width="1101.358">
+    <Grid>
+        <Button x:Name="btnGeschikt" Content="Bereken Geschiktheid" HorizontalAlignment="Left" Margin="945,458,0,0" VerticalAlignment="Top" Width="122" Click="Button_Click" Height="20"/>
+        <Label x:Name="lbl1" Content="Studentnummer:&#xD;&#xA;" HorizontalAlignment="Left" Margin="40,36,0,0" VerticalAlignment="Top" Height="42" Width="99"/>
+        <Label Content="Plaats:&#xD;&#xA;" HorizontalAlignment="Left" Margin="40,81,0,0" VerticalAlignment="Top" Height="26" Width="79"/>
+        <Label Content="Vooropleiding:" HorizontalAlignment="Left" Margin="342,39,0,0" VerticalAlignment="Top" Height="26" Width="88"/>
+        <Label Content="Voorkeursopleiding:" HorizontalAlignment="Left" Margin="342,79,0,0" VerticalAlignment="Top" Height="26" Width="117"/>
+        <Label Content="Geslacht:" HorizontalAlignment="Left" Margin="40,120,0,0" VerticalAlignment="Top" Height="26" Width="58"/>
+        <Label Content="Extr.Motivatie:" HorizontalAlignment="Left" Margin="672,79,0,0" VerticalAlignment="Top" Height="26" Width="84"/>
+        <Label Content="Aant. Weigeringen:" HorizontalAlignment="Left" Margin="672,240,0,0" VerticalAlignment="Top" Height="26" Width="112"/>
+        <Label Content="Traject:" HorizontalAlignment="Left" Margin="672,280,0,0" VerticalAlignment="Top" Height="26" Width="96"/>
+        <Label Content="Capaciteiten:" HorizontalAlignment="Left" Margin="672,117,0,0" VerticalAlignment="Top" Height="26" Width="78"/>
+        <Label Content="MBO Deficient?" HorizontalAlignment="Left" Margin="672,199,0,0" VerticalAlignment="Top" Height="26" Width="92"/>
+        <Label Content="Intr.Motivatie:" HorizontalAlignment="Left" Margin="672,38,0,0" VerticalAlignment="Top" Height="26" Width="82"/>
+        <TextBox x:Name="txtStdnummer" HorizontalAlignment="Left" Height="23" Margin="181,43,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtPlaats" HorizontalAlignment="Left" Height="23" Margin="181,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="cbGeslacht" HorizontalAlignment="Left" Margin="181,123,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtVooropleiding" HorizontalAlignment="Left" Height="23" Margin="474,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="147"/>
+        <TextBox x:Name="txtVoorkeur" HorizontalAlignment="Left" Height="23" Margin="474,81,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="147"/>
+        <ComboBox x:Name="cbExtrMot" HorizontalAlignment="Left" Margin="840,81,0,0" VerticalAlignment="Top" Width="45"/>
+        <ComboBox x:Name="cbIntrMot" HorizontalAlignment="Left" Margin="840,41,0,0" VerticalAlignment="Top" Width="45"/>
+        <ComboBox x:Name="cbCap" HorizontalAlignment="Left" Margin="840,121,0,0" VerticalAlignment="Top" Width="45"/>
+        <ComboBox x:Name="cbDeficient" HorizontalAlignment="Left" Margin="840,201,0,0" VerticalAlignment="Top" Width="72"/>
+        <ComboBox x:Name="cbAantW" HorizontalAlignment="Left" Margin="840,241,0,0" VerticalAlignment="Top" Width="45"/>
+        <ComboBox x:Name="cbTraject" HorizontalAlignment="Left" Margin="840,281,0,0" VerticalAlignment="Top" Width="72"/>
+        <ComboBox x:Name="cbComp" HorizontalAlignment="Left" Margin="840,161,0,0" VerticalAlignment="Top" Width="45"/>
+        <Label Content="Competenties:" HorizontalAlignment="Left" Margin="672,159,0,0" VerticalAlignment="Top" Height="26" Width="92"/>
+        <Label Content="Uitgeschreven?" HorizontalAlignment="Left" Margin="342,117,0,0" VerticalAlignment="Top" Height="26" Width="117"/>
+        <ComboBox x:Name="cbUit" HorizontalAlignment="Left" Margin="474,120,0,0" VerticalAlignment="Top" Width="72"/>
+
+    </Grid>
+</Window>
